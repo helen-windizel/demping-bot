@@ -42,3 +42,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# resume screenshots (keep PDF only on GitHub)
+resume-screenshots/*.png
+resume-screenshots/compressed/
